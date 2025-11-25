@@ -1,0 +1,13 @@
+# Exercícios – Internet
+
+ 1. Papel do cliente e do servidor
+Cliente é o dispositivo que faz solicitações na Internet, podendo ser um navegador que envia dados ou acessa um serviço.  
+Servidor é a máquina que recebe essas informações, processa e envia de volta os dados solicitados.
+
+ 2. O que são domínios e por que são importantes?
+Domínios são nomes que identificam sites na Internet, como google.com ou youtube.com.  
+Eles são importantes porque facilitam a navegação, funcionando como um “apelido” para o endereço IP real do servidor.
+
+ 3. Qual é o IP retornado pelo comando ping?
+O IP retornado foi:
+142.250.219.4
