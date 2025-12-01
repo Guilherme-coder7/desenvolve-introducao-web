@@ -1,0 +1,20 @@
+1-Tags: são marcas usadas para mostrar ao navegador como o conteudo deve ser interpretado
+  Corpo: é tudo que fica dentro da tag de inicio e a tag de fechamento
+  Atributos: São informações extras que adicionamos dentro de uma tag de abertura para modificar o comportamento ou aparência de um item
+
+2-Um elemento vazio é um elemento que não tem conteúdo dentro e tambem não tem uma tag de fechamento.
+Ele existe apenas para executar alguma função em especifico
+EXEMPLOS:
+<img> — exibe uma imagem
+<br> — quebra de linha,movendo o texto pra proxima linha
+
+3-**PRATICA**
+
+4- a)Os vizinhos de <main> são o <header>, que vem antes, e o <footer>, que vem depois.
+   b)Os ancestrais de <ul> são:
+    <nav>, <header>, <body> e <html>.
+   c)Os filhos de <header> são:
+    <h1> e <nav>.
+   d)A cadeia é assim:
+     html → body → main → article → p → strong
+     Então o <strong> está no 6º nível contando o <html> como nível 1. 
