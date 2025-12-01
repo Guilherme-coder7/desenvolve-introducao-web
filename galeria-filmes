@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Galeria de Filmes</title>
+    <style>
+        img {
+            width: 200px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Meus Filmes Favoritos</h1>
+
+    <a href="https://pt.wikipedia.org/wiki/O_Sexto_Sentido" target="_blank">
+        <img src="filme1.jpg" alt="Filme 1">
+    </a>
+
+    <a href=https://pt.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring target="_blank">
+        <img src="filme2.jpg" alt="Filme 2">
+    </a>
+
+    <a href=https://pt.wikipedia.org/wiki/Avengers:_Endgame target="_blank">
+        <img src="filme3.jpg" alt="Filme 3">
+    </a>
+
+    <a href=https://pt.wikipedia.org/wiki/Five_Nights_at_Freddy%27s_(filme) target="_blank">
+        <img src="filme4.jpg" alt="Filme 4">
+    </a>
+
+    <a href=https://pt.wikipedia.org/wiki/Harry_Potter_e_o_Prisioneiro_de_Azkaban_(filme) target="_blank">
+        <img src="filme5.jpg" alt="Filme 5">
+    </a>
+
+    <a href=https://pt.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish target="_blank">
+        <img src="filme6.jpg" alt="Filme 6">
+    </a>
+
+</body>
+</html>
