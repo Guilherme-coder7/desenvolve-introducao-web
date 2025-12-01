@@ -1,0 +1,13 @@
+1. <head>
+Guarda informações sobre a página.
+Não aparece para o usuário.
+Vai nele: título da aba, links de CSS, metadados, scripts.
+  
+<body>
+É onde fica todo o conteúdo que aparece para o usuário.
+Vai nele: textos, imagens, botões, títulos, listas etc.
+
+  Deve se utilizar <head> para colocar informações e configurações da página, coisas que não aparecem para o usuário
+  e <body> para colocar todo o conteúdo que o usuário vê na tela (textos, imagens, botões etc.).
+
+2. file:///C:/Users/Usuario/Documents/pagina.html
